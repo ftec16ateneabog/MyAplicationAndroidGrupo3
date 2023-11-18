@@ -24,3 +24,4 @@ var sumar2 = function(numero) {
 ![Imagen de referencia para el Readme tomada de internet.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
+![***Henry Yancy Caballero***](https://media.tenor.com/ZN3IwcYqRZsAAAAd/bleach.gif)
