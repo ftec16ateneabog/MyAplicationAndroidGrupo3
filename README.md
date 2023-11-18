@@ -18,3 +18,5 @@ var sumar2 = function(numero) {
   return numero + 2;
 }
 ```
+
+The background color is `#ffffff` for light mode
