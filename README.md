@@ -22,7 +22,8 @@ var sumar2 = function(numero) {
 ## Roadmap
 - [x] Add Changelog
 - [x] Add back to top links
- `#ffffff texto  light mode`
+ #ffffff texto  light mode
 
 ![Imagen de referencia para el Readme tomada de internet.](https://myoctocat.com/assets/images/base-octocat.svg)
 
+***Comentario de Sergio Moreno***
