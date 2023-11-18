@@ -19,9 +19,18 @@ var sumar2 = function(numero) {
 }
 ```
 
+<<<<<<< Updated upstream
+## Roadmap
+- [x] Add Changelog
+- [x] Add back to top links
  `#ffffff texto  light mode`
 
 ![Imagen de referencia para el Readme tomada de internet.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
+<<<<<<< HEAD
 ![***Henry Yancy Caballero***](https://media.tenor.com/ZN3IwcYqRZsAAAAd/bleach.gif)
+=======
+=======
+>>>>>>> Stashed changes
+>>>>>>> 0aa554e75c2f5063998dfcc7063a6dd0ce2e9a98
