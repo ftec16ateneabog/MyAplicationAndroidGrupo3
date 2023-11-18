@@ -19,6 +19,7 @@ var sumar2 = function(numero) {
 }
 ```
 
+<<<<<<< Updated upstream
 ## Roadmap
 - [x] Add Changelog
 - [x] Add back to top links
@@ -27,3 +28,5 @@ var sumar2 = function(numero) {
 ![Imagen de referencia para el Readme tomada de internet.](https://myoctocat.com/assets/images/base-octocat.svg)
 
 
+=======
+>>>>>>> Stashed changes
