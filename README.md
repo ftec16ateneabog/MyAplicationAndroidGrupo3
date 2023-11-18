@@ -19,7 +19,7 @@ var sumar2 = function(numero) {
 }
 ```
 
- `#ffffff texto ` light mode
+ `#ffffff texto  light mode`
 
 ![Imagen de referencia para el Readme tomada de internet.](https://myoctocat.com/assets/images/base-octocat.svg)
 
