@@ -20,3 +20,7 @@ var sumar2 = function(numero) {
 ```
 
 The background color is `#ffffff` for light mode
+
+![Imagen de referencia para el Readme tomada de internet.](https://myoctocat.com/assets/images/base-octocat.svg)
+
+
