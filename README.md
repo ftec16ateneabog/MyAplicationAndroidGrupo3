@@ -13,7 +13,7 @@ Esta *aplicacion* es para el **grupo3** de Atenea.
 | Row 3    | Cell 8   | Cell 9   |
 
 
-```
+```java
 var sumar2 = function(numero) {
   return numero + 2;
 }
